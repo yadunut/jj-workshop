@@ -10,9 +10,9 @@ But it wasn't enough for me, and it might not be enough for you. I felt my produ
 
 But then I hit jj heaven, and my productivity reached new heights. If only I'd had first gotten to do deliberate practice of the major workflows, I would have gotten there much faster.
 
-I created this workshop to save the rest of my team --- and now the rest of the world --- from the same learning pains I went through learning JJ.
+I created this workshop to save the rest of my team — and now the rest of the world — from the same learning pains I went through learning JJ.
 
-This is not yet another blog post about the awesomeness of jj.  It's a series of exercises -- done in simulation in this tiny repo -- to give you experience with all the major version-control workflows as fast as possible.
+This is not yet another blog post about the awesomeness of jj.  It's a series of exercises — done in simulation in this tiny repo — to give you experience with all the major version-control workflows as fast as possible.
 
 <img width="1721" height="964" alt="image" src="https://github.com/user-attachments/assets/16b7d9a1-203d-4e79-8b5c-6de72e54df84" />
 
