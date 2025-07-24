@@ -14,8 +14,7 @@ I created this workshop to save the rest of my team --- and now the rest of the 
 
 This is not yet another blog post about the awesomeness of jj.  It's a series of exercises -- done in simulation in this tiny repo -- to give you experience with all the major version-control workflows as fast as possible.
 
-<img width="1702" height="951" alt="image" src="https://github.com/user-attachments/assets/8bb83211-16ec-44f5-bcb8-a28a65cfe487" />
-
+<img width="1720" height="958" alt="image" src="https://github.com/user-attachments/assets/26fbe0c5-1a75-466e-a5a4-3cec0be8f492" />
 
 
 ### Steps
