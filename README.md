@@ -20,7 +20,7 @@ This is not yet another blog post about the awesomeness of jj.  It's a series of
 ### Steps
 
 1. Watch the [intro video]([url](https://www.loom.com/share/1adbbf11a1c547e5acc972abf9b8ffd9)) (<6m at 1x speed).
-2. Go through the [slides]([url](https://docs.google.com/presentation/d/1OhpeQdj86QVCpIhax-4sXPoP5wRP5zrVR3VY0t6n5BQ/edit?slide=id.p#slide=id.p)),  featuring a series of 8 exercises to take you from "Create a new commit" to "resolve merge conflicts in a stack of PRs." (1-2 hours for someone with no jj experience.)
+2. Go through the [slides]((https://docs.google.com/presentation/d/1OhpeQdj86QVCpIhax-4sXPoP5wRP5zrVR3VY0t6n5BQ/edit?slide=id.p#slide=id.p),  featuring a series of 8 exercises to take you from "Create a new commit" to "resolve merge conflicts in a stack of PRs." (1-2 hours for someone with no jj experience.)
 3. Watch the [conclusion video]([url](https://www.loom.com/share/0bc37a81b493496587d7e6910505163f)) (<6m at 1x speed).
 
 
