@@ -16,6 +16,7 @@ This is not yet another blog post about the awesomeness of jj.  It's a series of
 
 <img width="1721" height="964" alt="image" src="https://github.com/user-attachments/assets/16b7d9a1-203d-4e79-8b5c-6de72e54df84" />
 
+**Author**: Jimmy Koppel, Ph. D. [LinkedIn](linkedin.com/in/james-koppel-ph-d-0527b654) [Twitter](twitter.com/jimmykoppel) [Website](jameskoppel.com)
 
 ### Steps
 
