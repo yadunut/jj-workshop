@@ -4,7 +4,7 @@
 
 
 
-Perhaps you've heard of the JJ VCS, a new VCS replacing git that makes commit discipline and dealing with stacked PRs a breeze. Perhaps you've read the same blog posts I have, about how great jj is and how easy it is to get started.
+Perhaps you've heard of the [JJ VCS](https://jj-vcs.github.io/), a new VCS replacing git that makes commit discipline and dealing with stacked PRs a breeze. Perhaps you've read the same blog posts I have, about how great jj is and how easy it is to get started.
 
 But it wasn't enough for me, and it might not be enough for you. I felt my productivity grind to a halt as I struggled with things that had become second nature after 15 years of using git. Even though I was told it would be easy, I dreaded for days the prospect of dealing with my first merge conflict.
 
